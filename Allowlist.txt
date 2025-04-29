@@ -174,6 +174,7 @@ ucweb.com^
 duote.com^
 ! ================= 迅雷 =================
 api-shoulei-ssl.xunlei.com^
+analysis-acc-ssl.xunlei.com^
 ! ================= 查询 =================
 ! MAC地址查询
 7x24s.com^
