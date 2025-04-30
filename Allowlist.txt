@@ -173,6 +173,7 @@ ucweb.com^
 ! ================= 下载 =================
 duote.com^
 ! ================= 迅雷 =================
+etl-xlmc-ssl.xunlei.com^
 api-shoulei-ssl.xunlei.com^
 analysis-acc-ssl.xunlei.com^
 ! ================= 查询 =================
