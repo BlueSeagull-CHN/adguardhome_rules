@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/mphin/adguardhome_rules
 ! Total lines: 137
 ! Note: 本规则相对于广告隐私保护更注重功能性、便捷性和效率。建议与 anti-AD 主规则一同使用：https://anti-ad.net/easylist.txt
-
 ! ================= 搜狐 =================
 api.tv.sohu.com^
 track.sohu.com^
@@ -11,7 +10,6 @@ yule.sohu.com^
 ! ================= 搜狐视频 =================
 ! 拦截该域名Safari无法播放视频
 data.vod.itc.cn^
-
 ! ================= MASN中国 =================
 g.live.com^
 ! ================= 东方财富网 =================
@@ -25,10 +23,8 @@ iask.com.cn^
 mix.sina.com.cn^
 ! ================= 东方头条 =================
 dftoutiao.com^
-
 ! ================= 米读小说 =================
 apiwz.midukanshu.com^
-
 ! ================= 优酷 =================
 ! 电脑端提示广告加载失败，易产生歧义，实际在有效倒计时
 vali-g1.cp31.ott.cibntv.net^
@@ -40,7 +36,6 @@ vps.uc.cn^
 ulive-interact.uc.cn^
 ulive-sc.uc.cn^
 v.uc.cn^
-
 ! ================= 字节跳动 =================
 haohuo.snssdk.com^
 ! ================= 抖音 =================
@@ -49,12 +44,10 @@ lf1-cdn-tos.bytegoofy.com^
 ! ================= 番茄畅听 =================
 ! 反馈帮助页面
 ic.snssdk.com^
-
 ! ================= 快手 =================
 api.kwaizt.com^
 ! 送礼使用规则
 w1.kskwai.com^
-
 ! ================= 斗鱼 =================
 gift.douyucdn.cn^
 msg.douyu.com^
@@ -75,12 +68,10 @@ umiwi.com^
 xlivesex.com^
 ! ================= xhamsterlive =================
 hpyrdr.com^
-
 ! ================= 苹果 =================
 stats.gc.apple.com^
 ! ================= 小米 =================
 resolver.msg.xiaomi.net^
-
 ! ================= 腾讯 =================
 l.qq.com^
 yunjiasu.com^
@@ -93,7 +84,6 @@ szlong.weixin.qq.com^
 rdelivery.qq.com^
 ! ================= 腾讯视频 =================
 soup.v.qq.com^
-
 ! ================= 360 =================
 h5.mse.360.cn^
 jspassport.ssl.qhimg.com^
@@ -101,7 +91,6 @@ qhres2.com^
 se.360.cn^
 ! ================= 微软 =================
 click.linksynergy.com^
-
 ! ================= 百度 =================
 boxer.baidu.com^
 fc3tn.baidu.com^
@@ -120,7 +109,6 @@ sjh.baidu.com^
 udpolimenew.baidu.com^
 ! 灵感语录同步
 mime.baidu.com^
-
 ! ================= 搜狗手机输入法 =================
 shouji.sogou.com^
 ! ================= 阿里巴巴 =================
@@ -140,18 +128,14 @@ tunion-api.m.taobao.com^
 ! ================= 京东 =================
 orbit.jd.com^
 wl.jd.com^
-
 ! ================= 网易 =================
 api.iplay.163.com^
 ! ================= 网易云音乐 =================
 ! 云贝签到
 ac.dun.163yun.com^
-
-! 谷歌
 ! ================= 网易云音乐 =================
 csi.gstatic.com^
 googleadservices.com^
-
 ! ================= 蜗牛 =================
 woniu.com^
 ! ================= 千橡 =================
@@ -164,7 +148,6 @@ live.simcitybuildit.com^
 ztgame.com^
 ! ================= 原神 =================
 log-upload.mihoyo.com^
-
 ! ================= APP工具 =================
 ereg.wip3.adobe.com^
 similarweb.com^
@@ -192,7 +175,6 @@ hosting24.com^
 ! ================= 电视盒子 =================
 ! 电视盒子下载，cnhezi.niuaniua.com
 niuaniua.com^
-
 ! ================= 美团 =================
 ! 拦截该域名提示网络错误，无法打开消息列表设置
 pubmsg.meituan.com^
@@ -211,8 +193,6 @@ baixing.com^
 xj-n-tax.gov.cn^
 ! ================= 百事公司大中华区 =================
 pepsico.com.cn^
-
-
 ! ================= 其它 =================
 auditude.com^
 bitsumactivationserver.com^
